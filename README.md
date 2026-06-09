@@ -37,3 +37,5 @@ O projeto é composto primordialmente pelos seguintes arquivos fundamentais:
 ├── index.html       # Estrutura de visualização e interface com o usuário
 ├── style.css        # Estilos customizados da identidade visual do jogo
 └── script.js        # Motor lógico do jogo (Matrizes, cliques e estados)
+
+## Acesse: https://gcbieu.github.io/BATALHA_NAVAL/
